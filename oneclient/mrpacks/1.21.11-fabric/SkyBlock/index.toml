@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "e8bcd345ba7f66ae7682a811ea0f5d76f8ccb97639470a3edd4d380b0426493f"
+hash = "b122838fb5fddd3954e579f05d97bafa47cb847c3fef84ec6aae26b65c1a6f8a"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "22ebc2d35eb367b02b6fa4842b3f0f2308a2528782eca4ce338c6fbe4be4f19c"
+hash = "e6eb9e00cbe8c0feaedba73738bf298da80a2979102c0ba0a6a33c376cdf9b3b"
 metafile = true
 
 [[files]]
